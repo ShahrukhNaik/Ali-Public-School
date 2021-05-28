@@ -30,7 +30,7 @@
                             </p>
                             <p class="lead">
                             Affectionately Yours,<br>
-											principal
+											-principal
 
                             </p>
                         </div>

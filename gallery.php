@@ -1,7 +1,10 @@
 <?php $page='gallery'; include_once 'inc/header.php'?>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
     <link rel="stylesheet" href="gallerygrid.css">
-   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
 <div class="container gallery-container">   
 <div class="galleryheading">
         <h1>Our School's Image Gallery</h1>   
@@ -242,8 +245,4 @@
         </div>
     </div>
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
-<script>
-    baguetteBox.run('.tz-gallery');
-</script>
 <?php include_once 'inc/footer.php'?>

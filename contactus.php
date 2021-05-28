@@ -57,12 +57,12 @@
 ?>
 <?php $page='contactus'; include_once 'inc/header.php'?>
     <!--- Here we have to add google  map-->
-<div class="container-fluid">
-    <div class="col-12">
+<div class="container-fluid" style="margin-top:5rem;">
+    <div class="col-12" >
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7363.630736795635!2d73.49562681295005!3d17.53632577164235!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1a13e5bae706542d!2sAli%20Public%20School!5e1!3m2!1sen!2sin!4v1614755793417!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </div>
 </div>
-<div class="container">	
+<div class="container" style="margin-top:5rem;">	
     <div class="writeus">
 	    <h2>Write To Us</h2>
     </div>
