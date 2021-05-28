@@ -8,7 +8,7 @@
 <div class="container gallery-container">   
 <div class="galleryheading">
         <h1>Our School's Image Gallery</h1>   
-    </div>
+</div>
     <hr class="my-4">
     <div class="galleryheading">
         <h1>New School Images</h1>   
@@ -121,8 +121,8 @@
                     </a>
                 </div>    
                 <div class="col-sm-6 col-md-4">
-                    <a class="lightbox" href="images/26jan/26jan-5.jpg">
-                        <img src="images/26jan/26jan-5.jpg" alt="Rails">
+                    <a class="lightbox" href="images/26jan/26jan-5.JPG">
+                        <img src="images/26jan/26jan-5.JPG" alt="Rails">
                     </a>
                 </div>                                     
             </div>
@@ -170,8 +170,8 @@
         <div class="tz-gallery">
             <div class="row">
                 <div class="col-sm-6 col-md-4">
-                    <a class="lightbox" href="images/old school/cs-1.jpg">
-                        <img src="images/old school/cs-1.jpg" alt="Park">
+                    <a class="lightbox" href="images/old school/cs-1.JPG">
+                        <img src="images/old school/cs-1.JPG" alt="Park">
                     </a>
                 </div>
                 <div class="col-sm-6 col-md-4">
@@ -180,13 +180,13 @@
                     </a>
                 </div>
                 <div class="col-sm-12 col-md-4">
-                    <a class="lightbox" href="images/old school/cs-3.jpg">
-                        <img src="images/old school/cs-3.jpg" alt="Tunnel">
+                    <a class="lightbox" href="images/old school/cs-3.JPG">
+                        <img src="images/old school/cs-3.JPG" alt="Tunnel">
                     </a>
                 </div>
                 <div class="col-sm-6 col-md-4">
-                    <a class="lightbox" href="images/old school/cs-4.jpg">
-                        <img src="images/old school/cs-4.jpg" alt="Coast">
+                    <a class="lightbox" href="images/old school/cs-4.JPG">
+                        <img src="images/old school/cs-4.JPG" alt="Coast">
                     </a>
                 </div>
                 <div class="col-sm-6 col-md-4">
@@ -195,8 +195,8 @@
                     </a>
                 </div>    
                 <div class="col-sm-6 col-md-4">
-                    <a class="lightbox" href="images/old school/cs-6.jpg">
-                        <img src="images/old school/cs-6.jpg" alt="Rails">
+                    <a class="lightbox" href="images/old school/cs-6.JPG">
+                        <img src="images/old school/cs-6.JPG" alt="Rails">
                     </a>
                 </div>                                     
             </div>

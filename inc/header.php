@@ -67,7 +67,7 @@
             <img src="images/latest images/a3.jpg" >
         </div>
         <div class="carousel-item">
-            <img src="images/latest images/a4.jpg" >
+            <img src="images/latest images/a4.JPG" >
         </div>
         <div class="carousel-item">
             <img src="images/latest images/a5.jpg" >
@@ -80,8 +80,7 @@
           <a class="carousel-control-next" href="#slides" role="button" data-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
-          </a>
-        
+          </a>        
 
     </div>
 </div>
